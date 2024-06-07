@@ -5,6 +5,7 @@
     <title>Contributor Mural</title>
     <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
 </head>
+<div class="flexbox_index"> 
 <body>
     <h1>Contribute to the Cause</h1>
     <form action="{{ url_for('contribute') }}" method="POST">
@@ -21,4 +22,5 @@
 
     <p>Total Contributors: {{ count }}</p>
 </body>
+<div>
 </html>
