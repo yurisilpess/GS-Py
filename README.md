@@ -24,7 +24,11 @@ Antes de executar este projeto, certifique-se de ter os seguintes componentes in
 
 ## Instalação 🔧
 
-1. **Instala**
+1. **Fazer download dos arquivos:**
+
+- Acesse o repositório do projeto no GitHub.
+- Clique no botão "Code" e selecione "Download ZIP".
+- Extraia o conteúdo do arquivo ZIP para um diretório em seu computador.
 
 2. **Ativar o ambiente virtual (virtual environment (venv)):**
 
