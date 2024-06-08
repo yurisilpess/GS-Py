@@ -24,13 +24,15 @@ Antes de executar este projeto, certifique-se de ter os seguintes componentes in
 
 ## Instalação 🔧
 
-1. **Ativar o ambiente virtual (virtual environment (venv)):**
+1. **Instala**
+
+2. **Ativar o ambiente virtual (virtual environment (venv)):**
 
 ```
 source venv/bin/activate   # No Windows use `venv\Scripts\activate
 ```
 
-2. **Instalar dependências:**
+3. **Instalar dependências:**
 
 ```
 pip install Flask
