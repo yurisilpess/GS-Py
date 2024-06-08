@@ -31,9 +31,14 @@ Antes de executar este projeto, certifique-se de ter os seguintes componentes in
 - Extraia o conteúdo do arquivo ZIP para um diretório em seu computador.
 
 2. **Ativar o ambiente virtual (virtual environment (venv)):**
-
+### macOS/Linux
 ```
-source venv/bin/activate   # No Windows use `venv\Scripts\activate
+source venv/bin/activate   
+```
+
+### Windows
+```
+venv\Scripts\activate
 ```
 
 3. **Instalar dependências:**
