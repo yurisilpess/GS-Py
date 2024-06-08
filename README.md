@@ -24,14 +24,14 @@ Antes de executar este projeto, certifique-se de ter os seguintes componentes in
 
 # Instalação 🔧
 
-## 1. **Fazer download dos arquivos:**
+## 1. Fazer download dos arquivos:
 
 - Acesse o repositório do projeto no GitHub.
 - Clique no botão "Code" e selecione "Download ZIP".
 - Extraia o conteúdo do arquivo ZIP para um diretório em seu computador.
 
 
-## 2. **Ativar o ambiente virtual (virtual environment (venv)):**
+## 2. Ativar o ambiente virtual (virtual environment (venv)):
 ### macOS/Linux
 ```
 source venv/bin/activate   
@@ -42,9 +42,19 @@ source venv/bin/activate
 venv\Scripts\activate
 ```
 
+### VS Code ou outro editor de código
 
-## 3. **Instalar dependências:**
+- No terminal, use:
+  - `bash`
+  - `zsh`
+  - Se não funcionarem, use o do próprio `python`
+
+## 3. Instalar dependências:
 
 ```
 pip install Flask
 ```
+
+## 4. Executar o código
+
+- Clica no botão para executar o código no arquivo `app.py`.
